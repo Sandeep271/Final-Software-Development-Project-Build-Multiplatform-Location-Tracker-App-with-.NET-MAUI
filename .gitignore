@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Local signing / keystore files
+*.keystore
+*.jks
+
+# Never commit local secrets or generated secret files
+secrets.json
+appsettings.*.local.json

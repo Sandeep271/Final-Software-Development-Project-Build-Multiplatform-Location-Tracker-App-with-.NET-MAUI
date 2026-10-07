@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ChatGPT" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>LocationHeatMapApp Test Route</name></metadata>
+  <trk>
+    <name>Mountain View Test Route</name>
+    <trkseg>
+      <trkpt lat="37.42200" lon="-122.08406"><time>2026-10-07T16:05:00Z</time></trkpt>
+      <trkpt lat="37.42195" lon="-122.08370"><time>2026-10-07T16:05:05Z</time></trkpt>
+      <trkpt lat="37.42190" lon="-122.08335"><time>2026-10-07T16:05:10Z</time></trkpt>
+      <trkpt lat="37.42186" lon="-122.08300"><time>2026-10-07T16:05:15Z</time></trkpt>
+      <trkpt lat="37.42182" lon="-122.08265"><time>2026-10-07T16:05:20Z</time></trkpt>
+      <trkpt lat="37.42178" lon="-122.08230"><time>2026-10-07T16:05:25Z</time></trkpt>
+      <trkpt lat="37.42172" lon="-122.08195"><time>2026-10-07T16:05:30Z</time></trkpt>
+      <trkpt lat="37.42166" lon="-122.08160"><time>2026-10-07T16:05:35Z</time></trkpt>
+      <trkpt lat="37.42160" lon="-122.08125"><time>2026-10-07T16:05:40Z</time></trkpt>
+      <trkpt lat="37.42154" lon="-122.08090"><time>2026-10-07T16:05:45Z</time></trkpt>
+      <trkpt lat="37.42148" lon="-122.08055"><time>2026-10-07T16:05:50Z</time></trkpt>
+      <trkpt lat="37.42142" lon="-122.08020"><time>2026-10-07T16:05:55Z</time></trkpt>
+      <trkpt lat="37.42134" lon="-122.07985"><time>2026-10-07T16:06:00Z</time></trkpt>
+      <trkpt lat="37.42124" lon="-122.07955"><time>2026-10-07T16:06:05Z</time></trkpt>
+      <trkpt lat="37.42112" lon="-122.07930"><time>2026-10-07T16:06:10Z</time></trkpt>
+      <trkpt lat="37.42098" lon="-122.07908"><time>2026-10-07T16:06:15Z</time></trkpt>
+      <trkpt lat="37.42082" lon="-122.07890"><time>2026-10-07T16:06:20Z</time></trkpt>
+      <trkpt lat="37.42064" lon="-122.07876"><time>2026-10-07T16:06:25Z</time></trkpt>
+      <trkpt lat="37.42046" lon="-122.07867"><time>2026-10-07T16:06:30Z</time></trkpt>
+      <trkpt lat="37.42028" lon="-122.07862"><time>2026-10-07T16:06:35Z</time></trkpt>
+      <trkpt lat="37.42010" lon="-122.07860"><time>2026-10-07T16:06:40Z</time></trkpt>
+      <trkpt lat="37.41992" lon="-122.07862"><time>2026-10-07T16:06:45Z</time></trkpt>
+      <trkpt lat="37.41976" lon="-122.07870"><time>2026-10-07T16:06:50Z</time></trkpt>
+      <trkpt lat="37.41962" lon="-122.07884"><time>2026-10-07T16:06:55Z</time></trkpt>
+      <trkpt lat="37.41950" lon="-122.07904"><time>2026-10-07T16:07:00Z</time></trkpt>
+      <trkpt lat="37.41942" lon="-122.07930"><time>2026-10-07T16:07:05Z</time></trkpt>
+      <trkpt lat="37.41938" lon="-122.07960"><time>2026-10-07T16:07:10Z</time></trkpt>
+      <trkpt lat="37.41938" lon="-122.07992"><time>2026-10-07T16:07:15Z</time></trkpt>
+      <trkpt lat="37.41942" lon="-122.08024"><time>2026-10-07T16:07:20Z</time></trkpt>
+      <trkpt lat="37.41950" lon="-122.08056"><time>2026-10-07T16:07:25Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
